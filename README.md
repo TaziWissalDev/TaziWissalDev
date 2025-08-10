@@ -56,6 +56,6 @@
 <div align="center">
     <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaziWissalDev&theme=dracula">
 </div>
-<div align="center">
+<!--div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaziWissalDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+</div -->
