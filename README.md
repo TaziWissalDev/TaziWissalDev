@@ -47,8 +47,8 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-# 📊 GitHub Stats:
 
+<!--
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=TaziWissalDev&theme=chalk&column=2&row=2&margin-w=0&margin-h=1"/>
     <img width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=TaziWissalDev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
@@ -56,6 +56,7 @@
 <div align="center">
     <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaziWissalDev&theme=dracula">
 </div>
+-->
 <!--div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaziWissalDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div -->
